@@ -3,7 +3,8 @@
 bin
 src
 lib
-frameworks
+.swiftpm
+.build
 include/openssl
 *.gz
 *.framework

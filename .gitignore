@@ -7,5 +7,4 @@ lib
 .build
 include/openssl
 *.gz
-*.framework
 Carthage
